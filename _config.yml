@@ -1,1 +1,10 @@
-title: "Junteng Liu"
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "Junteng Liu"
+title_separator          : "-"
+name                     : "Junteng Liu"
+description              : "Junteng Liu's academic homepage"
+url                      : https://melodycloudsport.github.io
+baseurl                  : "/LJT-Homepage"
+repository               : "MelodyCloudSport/LJT-Homepage"
